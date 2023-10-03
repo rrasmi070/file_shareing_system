@@ -1,0 +1,3 @@
+wd_id,sale_date,sku_code,town_name,local_sales_retail,local_sales_dealer,local_sales_modern_trade,local_sales_hawker,outstation_sales_reatil,outstation_sales_dealer,outstation_sales_modern_trade,outstation_sales_hawker,other_sales_retail,other_sales_dealer,other_sales_modern_trade,total_local_sales,total_outstation_sales,total_other_sales,other_issues_damage,other_issues_other,other_issues_return
+3337,2023-09-24,CIG0003272,PATIALA-1654800,20,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+33371,2-9-23,CIG0003272,PATIALA-1654800,20,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
